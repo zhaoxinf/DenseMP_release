@@ -88,7 +88,7 @@ pip install -r requirements.txt
 - Abdominal MRI:  [Combined Healthy Abdominal Organ Segmentation dataset](https://chaos.grand-challenge.org/)
 - Abdominal CT: [Synapse Multi-atlas Abdominal Segmentation dataset](https://www.synapse.org/#!Synapse:syn3193805/wiki/217789)
 
-For pre-processed data of Abd-MRI and Abd-CT, please download from [gdrive]()
+For pre-processed data of Abd-MRI and Abd-CT, please download from [gdrive](https://drive.google.com/file/d/1QTFEmm6ktqXCuZ8Z8OTU-q4lbRmwM1Au/view?usp=sharing)
 
 #### Models
 
