@@ -173,12 +173,12 @@ Performance comparison with the state-of-the-art approaches (*i.e.*, [SSL-ALPNet
     ```
 
 
-### References
+## References
 
 This repo is mainly built based on [DenseCL](https://github.com/WXinlong/DenseCL), [SSL_ALPNet](https://github.com/cheng-01037/Self-supervised-Fewshot-Medical-Image-Segmentation) and [MMPreTrain](https://github.com/open-mmlab/mmpretrain). Thanks for their great work!
 
 
-### BibTeX
+## BibTeX
 
 If you find our work and this repository useful. Please consider giving a star :star: and citation &#x1F4DA;.
 
